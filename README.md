@@ -1,11 +1,10 @@
 Hi 👋
-I'm a Mobile software engineer, 
-with main area of experties and passion is Android. 
 
-I've been also working on building cross-platform applications with Kotlin Multiplatform.
+I'm experienced Mobile Software Engineer specializing in Android development, 
+with a focus on Kotlin Multiplatform for cross-platform applications. 
 
-Have some moderate experience with iOS and little bit of React Native.
+Proficient in iOS and familiar with React Native. 
 
-I have wide technical background in managing computer systems and computer network configuration, as well as Projects and People management.
+Strong background in computer systems, network configuration, and effective project and people management.
 
 #### [Medium articles](https://medium.com/@mkolodii)
